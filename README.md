@@ -3,12 +3,11 @@
 <details>
   <summary>Click to learn about me!</summary>
   <br>
+  
   ## 📫 How to reach me:
   - You can PM me on Discord @monbon#5951, or [email me](mailto:mon_s4107@comcast.net).
   ## 😄 Pronouns:
   - I use the pronouns He/Him
-  
-  - ~~I am a very epic Minecraft gamer~~
   
 </details>
 
