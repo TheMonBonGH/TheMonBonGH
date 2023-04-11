@@ -3,14 +3,8 @@
 <details>
   <summary>Click to learn about me!</summary>
   <br>
-  
-  
-  ## 🌱 I’m currently learning:
-  - I am trying to learning how to use the Spigot API in Java, so I write my own Spigot plugins 😀
-  ## 🤔 I’m looking for help with:
-  - **life**
   ## 📫 How to reach me:
-  - You can PM me on Discord @TheMonBon™#1234, or [email me](mailto:mon_s4107@comcast.net).
+  - You can PM me on Discord @monbon#5951, or [email me](mailto:mon_s4107@comcast.net).
   ## 😄 Pronouns:
   - I use the pronouns He/Him
   
