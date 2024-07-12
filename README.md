@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-<details>
-  <summary>Click to learn about me!</summary>
-  <br>
-  
   ## 📫 How to reach me:
-  - You can PM me on Discord @monbon#5951, or [email me](mailto:mon_s4107@comcast.net).
+  - You can PM me on Discord @monbon2009, or [email me](mailto:mon_s4107@comcast.net).
   ## 😄 Pronouns:
   - I use the pronouns He/Him
-  
-</details>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMonBonGH&show_icons=true) 
 
